@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Marek 👋</h1>
 
 # 👨‍💻 Developer | 🌐 DevOps  
-
-Hi there! 👋  
 I'm a developer with foundations in **DevOps** and a passion for teamwork and problem-solving. While my roots are in development, I’m already working partially as a **DevOps engineer** within my team, bridging the gap between development and operations. My goal is to fully embrace the DevOps world while helping teams overcome obstacles so we can focus on what truly matters: delivering great products! 🚀  
 
 ## 🛠️ Skills & Experience  
