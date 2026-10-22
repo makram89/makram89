@@ -5,7 +5,7 @@ I'm a developer with foundations in **DevOps** and a passion for teamwork and pr
 
 ## 🛠️ Skills & Experience  
 - **Languages & Frameworks:**  
-  💻 **C#** and **Python** (scripting, data processing, Django)  
+  💻 **C#** and **Python** (scripting, data processing, FastAPI)  
 - 💾 **Scripting:** While not a PowerShell or Bash expert, I can effectively use both to achieve the automation and administrative tasks I need.
 
 -  **Version Control & Platforms:**  
